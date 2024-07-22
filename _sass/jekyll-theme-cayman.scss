@@ -80,6 +80,38 @@ a {
   margin-right: auto;
 }
 
+.exec-pics {
+  width: 30%;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 50px;
+  max-width: 1000px; /* Ensure container doesn't exceed viewport width */
+  margin: 0 auto 50px; /* Center the container and add bottom margin */
+  padding: 20px; /* Add padding for better visual spacing */
+  border-bottom: 1px solid #ddd; /* Optional: Add bottom border for separation */
+}
+.image-section {
+  margin-right: 30px;
+  text-align: center;
+  flex: 0 0 auto; /* Prevent image section from shrinking */
+}
+.image-section img {
+  width: 200px; /* Adjust the size as needed */
+  height: auto;
+}
+.description-section {
+  flex: 1 1 auto; /* Allow description section to take available space */
+  max-width: 600px; /* Adjust the width as needed */
+}
+
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
@@ -113,6 +145,7 @@ a {
 
   @include small {
     display: block;
+    width: 100%;
     padding: 0.75rem;
     font-size: 0.9rem;
 
