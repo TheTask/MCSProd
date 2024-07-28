@@ -14,6 +14,6 @@ If you have any questions, please email us at **mcgillchoral@ssmu.ca**.
 
 
 <br>
-All of our sheet music, Youtube videos, word pronunciations, and vocal tracks can be found on the MCS Google Drive, please check your email for a link to this. Email us if you have not received a link or cannot access the folder.
+All of our sheet music, Youtube videos, links to past rehearsals, word pronunciations, and vocal tracks can be found on the MCS Google Drive, please check your email for a link to this. Email us if you have not received a link or cannot access the folder.
 
 

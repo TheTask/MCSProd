@@ -83,7 +83,8 @@ a {
 .social-networks {
   width: 10%;
   height: auto;
-  display: block;
+  vertical-align: top;
+  display: inline-block
 }
 
 .exec-pics {
@@ -412,6 +413,7 @@ a {
 }
 
 .site-footer {
+  text-align: center;
   padding-top: 2rem;
   margin-top: 2rem;
   border-top: solid 1px $hr-border-color;

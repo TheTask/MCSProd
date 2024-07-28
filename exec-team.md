@@ -93,3 +93,14 @@ Outside of music, I enjoy all outdoor sports and exploring my limits in all aspe
         <p>Hi! My name is Marek Borik and I sing tenor voice. I finished BSc in Computer Science three years ago and now I work full time. I have always loved playing the guitar and singing for myself and my friends, but I wanted to improve my level of singing, so I decided to join a choir. I have been part of MCS since Fall 2022 and been absolutely loving it. My hobbies include travelling, camping, hiking, playing or listening to music, reading and writing poetry… there are so many things to keep me busy!  I also wrote, shot and edited several short films since high school and spent 3 years in the film club “The Plumber’s Station McGill”, so I utilize my experience with recording the choir performances for YouTube and live-streaming the rehearsals.</p>
     </div>
 </div>
+
+
+<h3 style="text-align: center;">Roufaïda Lamrabet</h3>
+<div class="container">
+    <div class="image-section">
+        <img src="images/execs/Roufaida.jpeg" alt="Roufaida Labrabert">
+    </div>
+    <div class="description-section">
+        <p>Hello! I'm Roufaïda, a Soprano with the McGill Choral Society. In addition to my full-time job, I am a freelance social media manager. I was part of a choir in my home country of Morocco for 10 years. After moving to Canada, I discovered the McGill Choral Society and immediately felt at home when I joined. I have used my experience and skills to help manage the choir's social media presence. Beyond singing and marketing, I also have a passion for painting, which I enjoy in my free time.</p>
+    </div>
+</div>
