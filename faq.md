@@ -16,5 +16,5 @@ Registration fee is **$50** for students and **$70** for non-students. These fee
 ### When and where are the rehearsals? (Fall 2024)
 Our rehearsal is every Wednesday in person at 1444 Union Street, 2nd floor, from 7:30pm to 9:30pm.
 
-### What is this years repertoire? (Fall 2024)
+### What is the repertoire for this semester? (Fall 2024)
 Messiah, HWV 56 - George Frideric Handel
