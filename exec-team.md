@@ -101,6 +101,6 @@ Outside of music, I enjoy all outdoor sports and exploring my limits in all aspe
         <img src="images/execs/Roufaida.jpeg" alt="Roufaida Labrabert">
     </div>
     <div class="description-section">
-        <p>Hello! I'm Roufaïda Lamrabet, a Soprano with the McGill Choral Society. In addition to my full-time job, I am a freelance social media manager. I was part of a choir in my home country of Morocco for 10 years. After moving to Canada, I discovered the McGill Choral Society and immediately felt at home when I joined. I have used my experience and skills to help manage the choir's social media presence. Beyond singing and marketing, I also have a passion for painting, which I enjoy in my free time.</p>
+        <p>Hello! I'm Roufaïda, a Soprano with the McGill Choral Society. In addition to my full-time job, I am a freelance social media manager. I was part of a choir in my home country of Morocco for 10 years. After moving to Canada, I discovered the McGill Choral Society and immediately felt at home when I joined. I have used my experience and skills to help manage the choir's social media presence. Beyond singing and marketing, I also have a passion for painting, which I enjoy in my free time.</p>
     </div>
 </div>
