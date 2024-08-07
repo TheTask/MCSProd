@@ -33,13 +33,24 @@ I am happy to take part in the McGill choir since I loved singing in the local y
 </div>
 
 
+<h3 style="text-align: center;">Anne Di Vittorio, Treasurer</h3>
+<div class="container">
+    <div class="image-section">
+        <img src="images/execs/Anne.jpeg" alt="Anne Di Vittorio">
+    </div>
+    <div class="description-section">
+        <p>Hi! My name is Anne and I’m an undergrad at McGill in physiology. I joined the choir as I always liked singing and love the community feeling from singing in such a large group. I participated in choirs or singing through most of my pre-uni life and I’m always singing to myself so joining this group was a natural decision. My hobbies also include baking French pastries (my current long-term project has been learning to make macarons) and making miniature models.</p>
+    </div>
+</div>
+
+
 <h3 style="text-align: center;">Rachel Yang, VP Communications</h3>
 <div class="container">
     <div class="image-section">
         <img src="images/execs/Rachel.jpeg" alt="Rachel Lee">
     </div>
     <div class="description-section">
-        <p>Hello everyone! My name is Rachel (Ruihan) Yang, originally from Beijing, China. I’m a freshman student at McGill faculty of science. Music is a passion for me. I started singing in a choir when I was 6 years old, and music accompanied me throughout my teenage years. Now I join the MCS executive team, hoping to help more people who love music and contribute to the development of MCS. Besides music, I love traveling, sports, and visiting museums.</p>
+        <p>Hello everyone! My name is Rachel (Ruihan) Yang, originally from Beijing, China. I’m a U2 student majoring in cognitive science. Music is a passion for me. I started singing in a choir when I was 6 years old, and music accompanied me throughout my teenage years. Now I join the MCS executive team, hoping to help more people who love music and contribute to the development of MCS. Besides music, I love traveling, sports, and visiting museums.</p>
     </div>
 </div>
 
@@ -59,7 +70,7 @@ Looking forward to doing things a stagemanager might do to you (like perhaps….
 </div>
 
 
-<h3 style="text-align: center;">Klara Goettke, Webmaster</h3>
+<h3 style="text-align: center;">Klara Goettke, Merch lead</h3>
 <div class="container">
     <div class="image-section">
         <img src="images/execs/Klara.jpeg" alt="Klara Goettke">
